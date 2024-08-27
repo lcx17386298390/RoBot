@@ -1,0 +1,953 @@
+[2023-04-19 17:44:07] [WARNING]: 恢复会话失败: exchange_emp failed: 15 , 尝试使用正常流程登录. 
+[2023-04-19 17:48:36] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:48:36] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:48:57] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-04-19 17:50:31] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:50:31] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:50:54] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-04-19 17:51:14] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:51:14] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:51:35] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-04-19 17:52:15] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:52:16] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:52:39] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-04-19 17:53:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:53:17] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:53:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:53:46] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:54:06] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-04-19 17:55:37] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-19 17:55:37] [WARNING]: 将在 5秒 后继续. 
+[2023-04-19 17:55:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 18:07:52] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-04-19 18:08:01] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-04-19 18:09:28] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-04-19 18:09:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58638->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 18:12:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:59535->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 18:12:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59535->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 18:12:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:12:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:02] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 18:19:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:19:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:22:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 18:22:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:22:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:22:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:22:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:22:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:22:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:23:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2023-04-19 18:24:32] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 18:25:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 18:25:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 18:25:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:25:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 18:27:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 18:27:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 18:32:48] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 18:32:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 18:47:55] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.31.196:60483->117.62.242.81:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-04-19 18:47:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.95:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 18:47:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.95:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 18:47:55] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-04-19 18:47:58] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-19 18:48:01] [WARNING]: 尝试重连... 
+[2023-04-19 18:48:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.102.254:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 18:48:01] [WARNING]: 快速重连失败: dial tcp error: dial tcp 183.47.102.254:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 18:48:01] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-04-19 19:19:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 19:21:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 19:21:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 19:21:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:21:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:21:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:21:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:21:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:21:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:21:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:22:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 19:22:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 19:23:43] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64732->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:23:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64732->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:25:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64788->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:25:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64788->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:28:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 19:29:22] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 20.205.243.168:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-04-19 19:31:07] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 19:31:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 19:31:15] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65132->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:31:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65132->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:37:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 19:37:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 19:37:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:37:38] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49357->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:37:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49357->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:41:24] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49379->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:41:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49379->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:43:10] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49883->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:43:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49883->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:43:35] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49951->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:43:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49951->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:44:10] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49972->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:44:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49972->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:44:47] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49999->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:44:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49999->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:45:45] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50030->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:45:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50030->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:46:44] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50079->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:46:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50079->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:46:52] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-04-19 19:47:05] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50118->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:47:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50118->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:47:16] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-04-19 19:47:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50207->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:47:56] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50207->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:47:59] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-04-19 19:48:28] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50239->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:48:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50239->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:51:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50267->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:51:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50267->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:52:04] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50403->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:52:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50403->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:52:28] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 19:52:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 19:52:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 19:53:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50459->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:53:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50459->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:54:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50500->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:54:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50500->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 19:54:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50524->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:54:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50524->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:56:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50549->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 19:56:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50549->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 20:16:08] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50853->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 20:16:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50853->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 20:19:59] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51969->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 20:20:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51969->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 20:20:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52385->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 20:20:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52385->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 20:21:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52428->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 20:21:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52428->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 20:21:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:21:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:22:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:23:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:24:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:25:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:26:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:27:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:28:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:29:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:30:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:31:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:32:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:33:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:34:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:35:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:36:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:37:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:38:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:39:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:40:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:41:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:42:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:43:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:44:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:45:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:46:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:47:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:48:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:49:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:50:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:51:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:52:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:53:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:54:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:55:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:56:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:57:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:58:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 20:59:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:00:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:01:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:02:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:03:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:04:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:05:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:06:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:07:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:08:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:09:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:10:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:11:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:12:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:13:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:14:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:15:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:16:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:17:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:18:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:19:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:20:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:21:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:22:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:23:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:23:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:23:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:23:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:23:18] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.131.148:65015->58.212.179.125:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-04-19 21:23:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.97:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 21:23:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.97:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 21:23:18] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-04-19 21:23:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-19 21:23:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 21:23:24] [WARNING]: 尝试重连... 
+[2023-04-19 21:23:24] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 119.147.190.171:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 21:23:24] [WARNING]: 快速重连失败: dial tcp error: dial tcp 119.147.190.171:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-19 21:23:24] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-04-19 22:50:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-19 22:52:44] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 22:52:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:01:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:02:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:02:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:02:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:02:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:02:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:02:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:02:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:03:09] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51434->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:03:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51434->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:05:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51514->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:05:56] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51514->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:07:49] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51625->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:07:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51625->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:09:51] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:51732->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:09:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51732->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:10:39] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:10:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:12:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:12:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:12:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:12:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:12:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:13:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:13:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:16:00] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52182->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:16:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52182->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:16:41] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:16:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:17:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52467->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:17:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52467->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 23:20:13] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52502->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:20:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52502->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:22:06] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52883->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:22:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52883->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:22:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-19 23:22:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-19 23:22:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-19 23:24:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53135->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:24:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53135->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:32:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53254->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:32:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53254->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:35:03] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53825->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:35:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53825->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:35:56] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54086->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:36:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54086->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 23:37:48] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54140->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:37:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54140->127.0.0.1:53245: use of closed network connection 
+[2023-04-19 23:51:05] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54488->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:51:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54488->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:52:30] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:55376->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:52:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55376->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:53:22] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:55487->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-19 23:53:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55487->127.0.0.1:53245: use of closed network connection 

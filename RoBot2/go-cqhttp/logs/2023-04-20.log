@@ -1,0 +1,237 @@
+[2023-04-20 00:06:07] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:55539->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 00:06:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55539->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 00:09:23] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56750->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 00:09:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56750->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 00:36:30] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57096->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:32:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-20 08:41:06] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56619->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:41:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56619->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:45:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-20 08:45:52] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-20 08:46:15] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:61997->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:46:17] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61997->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:46:26] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62011->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:46:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62011->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:49:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62019->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:49:37] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62019->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 08:50:58] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62386->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 08:51:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62386->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 08:56:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-20 08:56:37] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-20 09:01:59] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62609->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 09:02:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62609->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 09:14:31] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:62771->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 09:14:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62771->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 09:19:58] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52044->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 09:20:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52044->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 09:20:38] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52260->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 09:20:42] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52260->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 09:35:59] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52284->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 09:36:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52284->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 09:55:01] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.31.196:56618->58.212.179.125:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-04-20 09:55:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 117.62.243.229:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-20 09:55:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 117.62.243.229:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2023-04-20 09:55:02] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-04-20 09:55:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-20 09:55:08] [WARNING]: 尝试重连... 
+[2023-04-20 09:55:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-20 12:37:01] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.1.111:53010->183.47.117.157:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-04-20 14:47:05] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-04-20 14:47:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-20 14:47:11] [WARNING]: 尝试重连... 
+[2023-04-20 14:47:11] [WARNING]: 快速重连失败: exchange_emp failed: 16 
+[2023-04-20 14:47:11] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-04-20 18:48:33] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2023-04-20 18:49:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 18:49:17] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 18:49:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-20 18:50:44] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64540->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 18:50:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64540->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 18:53:28] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64593->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 18:53:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64593->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 18:53:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64693->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 18:53:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64693->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:03:45] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64708->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:03:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64708->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:06:00] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65109->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:06:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65109->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:08:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65186->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:08:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65186->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:09:47] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65272->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:09:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65272->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:10:41] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65306->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:10:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65306->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:11:16] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65331->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:11:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65331->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:16:23] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:65356->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:16:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:65356->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:20:17] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49266->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:20:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49266->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:21:39] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49370->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:21:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49370->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:22:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49403->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:22:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49403->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:23:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49734->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:23:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49734->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:25:27] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49782->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:25:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49782->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:25:55] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49830->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:25:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49830->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:26:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49847->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:26:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49847->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:27:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49870->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:27:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49870->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:28:09] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49908->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:28:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49908->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:38:10] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49935->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:38:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49935->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:39:02] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-04-20 19:39:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-04-20 19:39:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 19:39:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 19:39:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 19:40:13] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50186->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:40:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50186->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:40:26] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50214->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:40:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50214->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:41:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50227->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:41:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50227->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:42:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50258->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:42:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50258->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:43:39] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50288->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:43:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50288->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:44:17] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50331->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:44:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50331->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:46:08] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50353->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:46:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50353->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:46:55] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50583->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:46:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50583->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:47:29] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50613->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:47:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50613->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 19:47:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 19:47:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 19:47:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 19:48:47] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50637->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:48:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50637->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 19:49:24] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-04-20 19:49:27] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-04-20 19:49:30] [WARNING]: 尝试重连... 
+[2023-04-20 19:49:31] [WARNING]: 快速重连失败: exchange_emp failed: 16 
+[2023-04-20 19:49:31] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-04-20 19:51:25] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2023-04-20 19:51:28] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 19:51:28] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 19:53:39] [FATAL]: 二维码过期 
+[2023-04-20 19:57:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 19:57:20] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 19:57:36] [FATAL]: 扫码被用户取消. 
+[2023-04-20 19:57:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 19:57:41] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 19:58:13] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 19:58:13] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 19:58:28] [FATAL]: 扫码被用户取消. 
+[2023-04-20 19:58:33] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 19:58:33] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 19:58:47] [FATAL]: 扫码被用户取消. 
+[2023-04-20 19:58:53] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 19:58:53] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 19:59:16] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:01:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:01:38] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:02:09] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:03:28] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:03:28] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:03:46] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:06:01] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:06:01] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:07:16] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:07:16] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:07:32] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:07:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:07:39] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:07:56] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:08:35] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:08:35] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:09:04] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:12:19] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:12:19] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:13:24] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:14:16] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-04-20 20:14:16] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-04-20 20:14:16] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-04-20 20:14:16] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-04-20 20:14:30] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:14:58] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-04-20 20:14:58] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-04-20 20:14:58] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-04-20 20:14:58] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-04-20 20:15:04] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=kjv94YAE&style=simple&aid=16&uin=1442311887&sid=8639695178535349444&cap_cd=xInM81ufEumS3eXFr7WgCaywa_kw80h3yeQkWPwq6Ab476coepNWkw**&clientype=1&apptype=2 
+[2023-04-20 20:15:18] [WARNING]: 登录失败: 请使用手Q扫描二维码或短信登录。 
+[2023-04-20 20:16:31] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:16:31] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:16:54] [FATAL]: 扫码被用户取消. 
+[2023-04-20 20:16:59] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 20:16:59] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 20:17:24] [FATAL]: 扫码被用户取消. 
+[2023-04-20 22:10:44] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 22:10:44] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 22:11:21] [FATAL]: 扫码被用户取消. 
+[2023-04-20 22:11:40] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-04-20 22:11:40] [WARNING]: 将在 5秒 后继续. 
+[2023-04-20 22:12:00] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-20 22:12:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:12:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:13:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2023-04-20 22:15:30] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52861->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:15:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52861->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 22:16:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53024->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:16:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53024->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 22:20:05] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53066->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:20:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53066->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:26:02] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53150->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:26:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53150->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:27:42] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53346->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:27:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53346->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:29:07] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53384->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:29:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53384->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:30:07] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53420->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:30:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53420->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:30:42] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53442->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:30:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53442->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:43:15] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53463->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:43:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53463->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:45:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53741->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:45:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53741->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:46:35] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53792->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:46:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53792->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:48:12] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53819->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:48:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53819->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:54:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53854->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:54:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53854->127.0.0.1:53245: use of closed network connection 
+[2023-04-20 22:57:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53966->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:57:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53966->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:59:11] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54005->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 22:59:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54005->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 23:07:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54044->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 23:07:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54044->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 23:09:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54154->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 23:09:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54154->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 23:12:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54199->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-20 23:12:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54199->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
